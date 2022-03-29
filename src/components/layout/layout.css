@@ -1,0 +1,16 @@
+.layout {
+    color: var(--txt-color);
+    height: 600px;
+    
+}
+
+.layout__content {
+    padding-left: var(--sidebar-width);
+    background-color: var(--second-bg);
+    height: 600px;
+}
+
+.layout__content-main {
+    padding: 30px;
+    width: 100%;
+}

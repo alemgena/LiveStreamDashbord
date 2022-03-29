@@ -1,0 +1,22 @@
+video {
+    left: 50%;
+   width: 50%;
+    position: absolute;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    height: 40%;
+  } 
+  .liveStream {
+    margin-top: 300px;
+    margin-left: 70px;
+    }
+    textarea {
+      width: 50%;
+      height: 100px;
+      padding: 12px 20px;
+      margin-top: 40px;
+      box-sizing: border-box;
+      border: 2px solid teal;
+      border-radius: 4px;
+      font-size: 16px;
+    }
